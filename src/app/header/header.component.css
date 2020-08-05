@@ -1,0 +1,44 @@
+.container {
+    background-color: #0bcab1;
+    width: 100%;
+}
+
+.detail {
+    width: 100%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    background-color: white;
+}
+
+.item {
+    text-align: center;
+    color: rgb(168, 167, 167);
+}
+
+.item .col-4 h4 {
+    font-weight: bold;
+}
+
+.graph {
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+    padding-bottom: 3%;
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
+
+.title h1 {
+    font-size: 300%;
+}
+
+.col-3 h4 {
+    font-size: 150%;
+}
+
+.title p {
+    font-size: 120%;
+}
