@@ -1,0 +1,19 @@
+.header {
+    background-color: #0bcab1;
+    color: white;
+}
+
+.header p {
+    font-size: 180%;
+}
+
+.segment a {
+    color: rgb(156, 156, 156);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.segment a:hover {
+    color: #0bcab1;
+}

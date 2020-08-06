@@ -7,10 +7,15 @@ import { HeaderComponent } from './header/header.component';
 import { Route } from '@angular/compiler/src/core';
 import { Routes } from '@angular/router';
 import { FooterComponent } from './footer/footer.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { SidebarComponent } from './sidebar/sidebar.component';
 
 const appRoutes:Routes=[
   {path: 'header', component:HeaderComponent},
   {path: 'footer', component:FooterComponent},
+  {path: 'navbar', component:NavbarComponent},
+  {path: 'sidebar', component:SidebarComponent},
+
 
 ]
 
@@ -18,7 +23,9 @@ const appRoutes:Routes=[
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    NavbarComponent,
+    SidebarComponent
   ],
   imports: [
     BrowserModule,

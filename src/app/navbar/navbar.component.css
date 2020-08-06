@@ -1,0 +1,31 @@
+.container {
+    background-color: #0bcab1;
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+    border-bottom: solid black 0.5px;
+}
+
+.input {
+    width: 100%;
+}
+
+#search {
+    height: 50%;
+}
+
+.inscription {
+    font-size: 130%;
+    margin-top: 0.5%;
+}
+
+#inscription {
+    color: white;
+}
+
+.title {
+    font-family: 'Righteous', cursive;
+    color: white;
+    font-size: 180%;
+    margin-top: 0.5%;
+    margin-left: 3%;
+}
