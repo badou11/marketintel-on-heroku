@@ -1,0 +1,7 @@
+.segment {
+    text-align: left;
+}
+
+.segment .header {
+    font-size: 170%;
+}
